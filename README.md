@@ -14,3 +14,6 @@ Projects:
 ## Technologies Used
 
 - pandas
+- tk
+- ghostscript
+- camelot
