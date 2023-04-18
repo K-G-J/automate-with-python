@@ -23,11 +23,11 @@ min_row = wb.active.min_row
 max_row = wb.active.max_row
 
 # Instantiate a barchart
-barchart = Barchart()
+barchart = BarChart()
 
 # Locate data and categories
 data = Reference(sheet,
-                 min_col=min_colum+1,
+                 min_col=min_column+1,
                  max_col=max_column,
                  min_row=min_row,
                  max_row=max_row)  # including headers
