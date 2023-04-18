@@ -11,9 +11,11 @@ Projects:
 - Automate The News
 - Automate Excel Report
 
+to make executables: `pyinstaller --onefile <filename>`
+
 ## Technologies Used
 
 - pandas
-- tk
-- ghostscript
 - camelot
+- selenium
+- pyinstaller
