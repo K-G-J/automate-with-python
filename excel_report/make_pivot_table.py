@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Read Excel File to data frame(df)
+# Read Excel File to data frame (df)
 df = pd.read_excel('supermarket_sales.xlsx')
 
 # Select columns: 'Gender', 'Product line', 'Total'
